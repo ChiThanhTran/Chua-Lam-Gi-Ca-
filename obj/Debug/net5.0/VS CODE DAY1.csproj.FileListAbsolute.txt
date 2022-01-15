@@ -1,0 +1,16 @@
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.exe
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.deps.json
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.runtimeconfig.json
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.runtimeconfig.dev.json
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.dll
+D:\VS CODE DAY1\bin\Debug\net5.0\ref\VS CODE DAY1.dll
+D:\VS CODE DAY1\bin\Debug\net5.0\VS CODE DAY1.pdb
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.csprojAssemblyReference.cache
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.AssemblyInfoInputs.cache
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.AssemblyInfo.cs
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.csproj.CoreCompileInputs.cache
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.dll
+D:\VS CODE DAY1\obj\Debug\net5.0\ref\VS CODE DAY1.dll
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.pdb
+D:\VS CODE DAY1\obj\Debug\net5.0\VS CODE DAY1.genruntimeconfig.cache
